@@ -1,0 +1,13 @@
+/* Hero Section */
+.hero {
+  height: 100vh;
+  background: url("sale..webp") center/cover no-repeat;
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+}
+
+.hero p {
+  font-size: 1.3rem;
+}
